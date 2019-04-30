@@ -4,6 +4,6 @@ This script enables/disables the loopback module from PulseAudio. I made that sc
 
 ## How to use the script:
 
-Open a terminal window and go to the directory of the script, give the permissions needed to execute it and run it. The instructions are already in the script.
+Open a terminal window and go to the directory of the script, give the permissions needed to execute it and run it. The instructions are already embedded in the script.
 
-If you have any problems with the sound, change the latency value.
+If you have any problems with the sound, just change the latency value.
