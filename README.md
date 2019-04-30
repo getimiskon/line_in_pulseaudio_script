@@ -1,6 +1,6 @@
 # Line in loopback script for PulseAudio v1.0
 
-This script enables/disables the loopback module from PulseAudio. I made that script to automate this process than typing those commands.
+This script enables/disables the loopback module from PulseAudio. I made that script to automate this process than typing those commands individually.
 
 ## How to use the script:
 
